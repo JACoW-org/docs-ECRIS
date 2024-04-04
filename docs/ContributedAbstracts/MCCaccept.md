@@ -18,7 +18,7 @@ After clicking on an abstract title, at the bottom the *judging area* will appea
 
 ---
 
-*MC Coordinators should carefully read the judgement instructions available before judging. Special requirements may be present for any specific IPAC.*
+*MC Coordinators should carefully read the judgement instructions available before judging. Special requirements may be present for any specific ECRIS.*
 
 ---
 

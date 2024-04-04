@@ -1,10 +1,15 @@
-# How to login to the IPAC Indico event
+# How to login to the ECRIS Indico event
 
 ## Getting to the Indico event
 
-The address of the IPAC event you want to access is surely published on the website of the conference (usually, <https://ipacXX.org> - e.g., <https://ipac23.org>, <https://ipac24.org> etc.)
+The address of the ECRIS event you want to access is surely published on the website of the conference, often an istitute specific web page or Indico instance (e.g. for ECRIS'24 - Event Homepage <https://indico.gsi.de/event/17948> )
 
-The usual URL for IPAC Indico events is <https://indico.jacow.org/e/IPACXX> (e.g., [IPAC'23](https://indico.jacow.org/e/IPAC23), [IPAC'24](https://indico.jacow.org/e/IPAC24) etc.)
+The usual URL for ECRIS JACoW Indico events is <https://indico.jacow.org/e/ECRISXXXX> (e.g., ECRIS'24 - Proceeding Management <https://indico.jacow.org/e/ECRIS2024> etc.)
+
+ECRIS'24 actually was using two Indico instances, which can be quite confusing for your participants. If you have something similar try to make them distinguishable by titel and visually
+
+* `indico.gsi.de` for the conference hompage, registration, event information, was called *Event Homepage*
+* `indico.jacow.org`for the management of the scientific program, abstract, paper submission and editing, was called *JACoW Proceedings Management*
 
 ## Your JACoW account
 
@@ -34,7 +39,7 @@ Your profile will be shown with your username highlighted just below your data:
 
 ![](img/Username.png)
 
-Please copy and use it to login into the IPAC Indico event (not into the Central Repository anymore!).
+Please copy and use it to login into the ECRIS Indico event (not into the Central Repository anymore!).
 
 ## How to reset your password
 
@@ -44,7 +49,7 @@ Open the [JACoW Central Repository login page](https://oraweb.cern.ch/pls/jacow/
 
 You will receive an email with instructions on how to reset your password.
 
-After this operation you will be able to login into the IPAC Indico event (not into the Central Repository anymore!).
+After this operation you will be able to login into the ECRIS Indico event (not into the Central Repository anymore!).
 
 In case of problems, please _contact the JACoW Repository Manager_ (exact contacts available at [JACoW / Contacts](https://www.jacow.org/Main/Contacts)).
 
@@ -80,6 +85,6 @@ When ready, press the "**Submit**" button at the bottom of the page.
 
 --------------------------------------------------------------------------------
 
-**If you cannot login to the IPAC Indico event**, please try logging in the [JACoW Central Repository](https://oraweb.cern.ch/pls/jacow/profile.html) first. If this works successfully, try logging in Indico with the same username/password. In case this won't work, contact the _Scientific Secretariat/Event Administrator_ (contacts are usually provided in the IPAC event pages) or the _JACoW Repository Manager_ (exact contacts available at [JACoW / Contacts](https://www.jacow.org/Main/Contacts).
+**If you cannot login to the ECRIS Indico event**, please try logging in the [JACoW Central Repository](https://oraweb.cern.ch/pls/jacow/profile.html) first. If this works successfully, try logging in Indico with the same username/password. In case this won't work, contact the _Scientific Secretariat/Event Administrator_ (contacts are usually provided in the ECRIS event pages) or the _JACoW Repository Manager_ (exact contacts available at [JACoW / Contacts](https://www.jacow.org/Main/Contacts).
 
 --------------------------------------------------------------------------------

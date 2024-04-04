@@ -41,7 +41,7 @@ Assigning the privileges/permissions to SPC members and Conveners for the above 
 
 ![](img/abstracts_reviewing.png)
 
-For IPAC, the SPC is normally divided into small working groups composed of a Track Group Coordinator per Track Group (Main Classification) from the hosting region, and a Co-Coordinator from one of the other regions. In some instances, extra persons are added. 
+For ECRIS, the SPC is normally divided into small working groups composed of a Track Group Coordinator per Track Group (Main Classification) from the hosting region, and a Co-Coordinator from one of the other regions. In some instances, extra persons are added. 
 
 Prior therefore to assigning permissions, the Roles of *SPC Member*, and *Track Group Coordinator/Convener/Judge* and the relevant persons for each of the Tracks need to be set up in the *Organization / Roles* setup screen. The Coordinators/Conveners might be called **MC1 Convener**, **MC2 Convener**, **MC3 Convener** etc. for example. Behind each Role, the names of the persons should have been entered:
 
@@ -131,7 +131,7 @@ For this exercise we are adding a question of type ***Yes/No***:
 
 ![](img/priority_field.png)
 
-Normally IPAC conferences use **two questions** of type Yes/No:
+Normally ECRIS conferences use **two questions** of type Yes/No:
 
 - First priority
 

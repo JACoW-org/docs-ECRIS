@@ -48,38 +48,38 @@ The text entered in the Announcement field appears in the link to Call for Abstr
 
 If enabled, when submitting it's possible to select multiple tracks. Otherwise, only one track maximum is selectable.
 
-***For IPAC we recommend to disable this setting.***
+***For ECRIS we recommend to disable this setting.***
 
 ###### Require tracks
 
 Whether or not the submitter needs to specify tracks. 
 
-***For IPAC we recommend to enable this setting.***
+***For ECRIS we recommend to enable this setting.***
 
 ###### Require contrib. type
 
 Whether or not the submitter needs to specify a contribution type for the abstract.
 
-***For IPAC we recommend to enable this setting.***
+***For ECRIS we recommend to enable this setting.***
 
 ###### Allow attachments
 
 Allow/do not allow attachments for abstracts.
 
-***For IPAC we recommend to disable this setting.***
+***For ECRIS we recommend to disable this setting.***
 
 ###### Allow speakers
 
 This allows/does not allow the selection of the speakers.
 
-***For IPAC we recommend to enable this setting.***
+***For ECRIS we recommend to enable this setting.***
 
 ###### Require a speaker
 
 This makes the selection of at least one author as speaker
 mandatory.
 
-***For IPAC we recommend to enable this setting.***
+***For ECRIS we recommend to enable this setting.***
 
 ###### Allow editing
 
@@ -87,7 +87,7 @@ Editing of abstracts is offered to the four options:
 
 ![](img/call4abstracts-allowediting.png)
 
-***For IPAC we recommend to select "Abstract submitter only".***
+***For ECRIS we recommend to select "Abstract submitter only".***
 
 ###### Contribution submitters
 
@@ -96,7 +96,7 @@ rights once an abstract has been accepted for presentation:
 
 ![](img/call4abstracts-contribution_submitters.png)
 
-***For IPAC we recommend to select "Speakers and authors".***
+***For ECRIS we recommend to select "Speakers and authors".***
 
 ###### Authorized submitters
 

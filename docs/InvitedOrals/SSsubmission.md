@@ -24,7 +24,7 @@ The following fields are available:
 
 - **Authors**: It is possible to search for authors (from the JACoW Central Repository) or to enter manually, and then configure the roles:
   ![](img/authors.png)
-  Clear instructions on how to enter proposals for speakers are necessary to help the proposers with this job. Note for IPAC SPC/SS: IPAC OC/SPC/SAB members **should not normally propose themselves** for oral presentations
+  Clear instructions on how to enter proposals for speakers are necessary to help the proposers with this job. Note for ECRIS SPC/SS: ECRIS OC/SPC/SAB members **should not normally propose themselves** for oral presentations
 
 - **Comments**: This field is included in the default setup and can be note for any notes from the proposers
 

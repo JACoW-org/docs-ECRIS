@@ -16,7 +16,7 @@ This functionality, however, is offered in two flavours: pre-press and final pro
 
 ## Pre-press proceedings
 
-At IPACs it is use to publish the so called "pre-press" proceedings on the last Friday of the conference. This set is a temporary, partial and possibly changing package that can easily be published on the conference's website.
+At ECRISs it is use to publish the so called "pre-press" proceedings on the last Friday of the conference. This set is a temporary, partial and possibly changing package that can easily be published on the conference's website.
 
 The main characteristics of the pre-press proceedings are:
 
@@ -34,13 +34,13 @@ Please refer to the [dedicated CAT/PURR documentation](https://purr-docs.jacow.o
 
 ## Notes on the "preprint" setting (LPR)
 
-IPAC has a long tradition of publishing a subset of the papers in a refereed Journal. These papers are usually Light Peer Reviewed (LPR) by a peer review team. This task is managed by the [Indico "peer review"](https://learn.getindico.io/conferences/papers/peer_reviewing/) module, where authors, reviewers and judges cooperate in a timeline similar to the one about editing.
+ECRIS has a long tradition of publishing a subset of the papers in a refereed Journal. These papers are usually Light Peer Reviewed (LPR) by a peer review team. This task is managed by the [Indico "peer review"](https://learn.getindico.io/conferences/papers/peer_reviewing/) module, where authors, reviewers and judges cooperate in a timeline similar to the one about editing.
 
 Since the accepted LPR papers are to be printed in a journal, the publication on JACoW.org or on any other website should be marked as "preprint". For every contribution CAT checks about its possible presence in the Indico peer review module. If this contribution is also accepted there (i.e., the paper is accepted for publication in the LPR journal), the sentence set in the "Preprint" field of PURR's settings is over-stamped in the PDF.
 
 ## Notes on duplicate contributions
 
-By definition a contribution can be presented only in one session. IPAC uses to offer a special Students Poster Session on the Sunday to offer more visibility to young generation scientists. These posters are to be presented twice, once in the Sunday Poster Session and then in one normal Poster Session from Monday to Thursday.
+By definition a contribution can be presented only in one session. ECRIS uses to offer a special Students Poster Session on the Sunday to offer more visibility to young generation scientists. These posters are to be presented twice, once in the Sunday Poster Session and then in one normal Poster Session from Monday to Thursday.
 
 To accomplish this task it is needed to duplicate contributions in Indico.
 

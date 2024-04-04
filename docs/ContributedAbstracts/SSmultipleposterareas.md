@@ -2,7 +2,7 @@
 
 So far we have considered the general rule of "only one Session Block for every Session", as described in the [how to create sessions](..//InvitedOrals/SSpcodes.md#sessions) and [how to create session blocks](../InvitedOrals/SSpcodes.md#session-blocks) instructions. 
 
-However, this rule has some exceptions. The most common one is needed when there are** too many posters in a session to be accommodated in one area** (or room) only. This is quite typical for IPACs where the overall number of posters is in the order of the thousands.
+However, this rule has some exceptions. The most common one is needed when there are** too many posters in a session to be accommodated in one area** (or room) only. This is quite typical for ECRISs where the overall number of posters is in the order of the thousands.
 
 To solve this issue we might think of two different approaches:
 
@@ -12,7 +12,7 @@ To solve this issue we might think of two different approaches:
 
 ## One session, multiple blocks
 
-IPAC usually has one poster session per day (Sunday to Thursday). For this task we will use a simplified example involving ten contributions in the Thursday Poster Session (*with programme code* ***THP***). The selected venue can provide two rooms (*called* ***A*** *and* ***B***) that can accommodate only five poster boards each. The ten contributions in session THP will then be split in the two rooms by the **Change Session Block** JACoW.org utility.
+ECRIS usually has one poster session per day (Sunday to Thursday). For this task we will use a simplified example involving ten contributions in the Thursday Poster Session (*with programme code* ***THP***). The selected venue can provide two rooms (*called* ***A*** *and* ***B***) that can accommodate only five poster boards each. The ten contributions in session THP will then be split in the two rooms by the **Change Session Block** JACoW.org utility.
 
 Here we will go through the basic steps of the whole procedure.
 

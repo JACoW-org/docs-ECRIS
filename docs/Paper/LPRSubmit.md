@@ -8,7 +8,7 @@ The explanations in this section supposes that you, as an author, have already s
 
 By clicking on the title of contribution (#2 in the above screenshot) you will be able to get all of its details.
 
-Normally general and LPR IPAC submissions open at the same time. Hence, towards the bottom of the contribution's page you will see two "Submit paper" buttons. 
+Normally general and LPR ECRIS submissions open at the same time. Hence, towards the bottom of the contribution's page you will see two "Submit paper" buttons. 
 
 ---
 
@@ -28,7 +28,7 @@ Drag the file into the rectangle or click on "Choose from your computer" button,
 
 ---
 
-**Note:** be sure that the filename follows the normal IPAC syntax: `PAPER_CODE.PDF`
+**Note:** be sure that the filename follows the normal ECRIS syntax: `PAPER_CODE.PDF`
 
 *We recommend that both PDF and source files are uploaded, even if the system does not enforce any particular file type.*
 
@@ -38,7 +38,7 @@ After the file has been uploaded you will be able to access the details of the L
 
 ![](img/LPRdashboard1.png)
 
-At this stage the IPAC LPR manager together with the reviewers assigned to your paper have been notified via email of your submission.
+At this stage the ECRIS LPR manager together with the reviewers assigned to your paper have been notified via email of your submission.
 
 Whenever the LPR manager will accept, reject or ask for modifications for this paper, you will receive an email by the system. All the details of this actions will be reported in this dashboard.
 
@@ -50,4 +50,4 @@ You can get back to the dashboard of any of your papers submitted for LPR from t
 
 ![](img/LPRsection.png)
 
-This section can optionally present the templates to be used to write your paper (refer to the official IPAC website for more details). The "My papers" section reports the list of your papers submitted for LPR - click on its title to access the LPR dashboard presented here above.
+This section can optionally present the templates to be used to write your paper (refer to the official ECRIS website for more details). The "My papers" section reports the list of your papers submitted for LPR - click on its title to access the LPR dashboard presented here above.

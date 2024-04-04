@@ -1,8 +1,8 @@
 # How to edit a contribution
 
-**Abstracts** that have been accepted by the Scientific Programme Committee become ***contributions***. These are allocated in the Scientific Programme in sessions, which means they have a room, date and time of presentation, duration and programme code.
+**Abstracts** that have been accepted become ***contributions***. These are allocated in the Scientific Programme in sessions, which means they have a room, date and time of presentation, duration and programme code.
 
-All contributions submitted to the conference are available under the "Contribution list" menu item of Indico.
+All contributions submitted to the conference are available under the "Contribution list" menu item of JACoW Indico.
 
 To quickly get to your contributions, which means all contributions you have submitted or are allowed to edit (because you are the speaker, for example) enter the "**My Contributions**" menu entry:
 

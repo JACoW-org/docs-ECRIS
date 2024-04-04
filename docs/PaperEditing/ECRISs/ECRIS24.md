@@ -1,4 +1,4 @@
-# IPAC'23 Editing instructions
+# ECRIS'23 Editing instructions
 
 ## Editor Computers
 
@@ -24,8 +24,8 @@ When you're done, all the processed files of that paper will be moved to
 
 ## Editor Access
 
-IPAC'23 is using, for the very first time, the JACoW Indico server. 
-Login with your JACoW account at [https://indico.jacow.org/e/IPAC23](https://indico.jacow.org/e/IPAC23).
+ECRIS'23 is using, for the very first time, the JACoW Indico server. 
+Login with your JACoW account at [https://indico.jacow.org/e/ECRIS23](https://indico.jacow.org/e/ECRIS23).
 
 ---
 
@@ -337,7 +337,7 @@ Then perform the following checks:
 
 ---
 
-## Suggestions to Indico, to IPAC'23+ organisers etc.
+## Suggestions to Indico, to ECRIS'23+ organisers etc.
 
 Please share your idea, comments, suggestions for a better organisation of such events, in particular about the use of Indico.
 

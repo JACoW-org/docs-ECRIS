@@ -1,8 +1,8 @@
 # How to edit your abstracts
 
-## Login to the IPAC Indico event
+## Login to the ECRIS Indico event
 
-See [How to login to the Indico event](JACoWlogin.md) for details on how to login to the IPAC Indico event.
+See [How to login to the Indico event](JACoWlogin.md) for details on how to login to the ECRIS Indico event.
 
 ## Editing and withdrawing an abstract
 
@@ -12,7 +12,7 @@ The "**Call for Abstracts**" item from the Indico menu on the left brings to the
 
 This screen also presents the type and status of the abstracts: in the example above abstract id `#20` has been accepted as Invited Oral Presentation, while `#85` has been submitted and is waiting for evaluation by the Scientific Programme Committee.
 
-Until the abstracts are not accepted by the SPC it is possible to edit them by their submitters.
+Until the abstracts are not accepted it is possible to edit them by their submitters.
 
 To do this, first **click on the abstract title** and access the abstract details. On the top right of the screen three buttons can be found. 
 
@@ -26,7 +26,7 @@ If the abstract has been accepted and a contribution created, the submitter cann
 
 ![](img/cannotwithdraw.png)
 
-Another state that will disable the editing by the submitter is while the SPC is reviewing the abstract:
+Another state that will disable the editing by the submitter is reviewing the abstract:
 
 ![](img/cannotedit.png)
 

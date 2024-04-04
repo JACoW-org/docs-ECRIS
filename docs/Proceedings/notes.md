@@ -42,7 +42,7 @@ The JSON file is not linked from the proceedings' home page. It is named after t
 
 `https://JACoW.org/[EVENT]/json/inspire-[EVENT].jsonl`
 
-where `[EVENT]` is, for example, `IPAC2024`.
+where `[EVENT]` is, for example, `ECRIS2024`.
 
 ### Other Metadata
 

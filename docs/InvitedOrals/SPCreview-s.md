@@ -48,7 +48,7 @@ The six different cases are as follow:
 
 5. [the abstract is not appropriate for some reasons](#5-the-abstract-is-not-appropriate-for-some-reasons): the reviewer will ask the abstract to be rejected;
 
-6. [the abstract is a duplicate of another abstract](#6-the-abstract-is-a-duplicate-of-another-abstract): the reviewer will mark it as duplicate to merge with. This final case is rarely used in IPACs and can be ignored.
+6. [the abstract is a duplicate of another abstract](#6-the-abstract-is-a-duplicate-of-another-abstract): the reviewer will mark it as duplicate to merge with. This final case is rarely used in ECRISs and can be ignored.
 
 For all cases but #4 it is first needed to press the "Review" button in the interface (ignore the "*Leave a comment...*" area for now) towards the bottom of the page:
 
@@ -56,21 +56,21 @@ For all cases but #4 it is first needed to press the "Review" button in the inte
 
 ---
 
-*SPC members should carefully read the reviewing instructions available after pressing the "Review" button before posting their review. Special requirements may be present for each specific IPAC.*
+*SPC members should carefully read the reviewing instructions available after pressing the "Review" button before posting their review. Special requirements may be present for each specific ECRIS.*
 
 ---
 
 ### 1. Proposed track is appropriate, abstract to be proposed as invited oral presentation
 
-For a normal IPAC it is possible to assign a *First Priority* (i.e., "I strongly support this abstract to be accepted as invited oral presentation") or a *Second Priority* (i.e., "I also support this abstract to be considered as an invited oral presentation") to an abstract, by way of Yes/No widgets: 
+For a normal ECRIS it is possible to assign a *First Priority* (i.e., "I strongly support this abstract to be accepted as invited oral presentation") or a *Second Priority* (i.e., "I also support this abstract to be considered as an invited oral presentation") to an abstract, by way of Yes/No widgets: 
 
 ![](../InvitedOrals/img/ratings.png)
 
 ---
 
-**Note: at a typical IPAC every SPC member is allowed to cast a maximum of *five* first priorities and a maximum of *five* second priorities for each Main Classification.** If we consider that we normally have eight Main Classifications (MC1 through MC8) this will allow 80 maximum votes per SPC member (40 first and 40 second priority).
+**Note: at a typical ECRIS every SPC member is allowed to cast a maximum of *five* first priorities and a maximum of *five* second priorities for each Main Classification.** If we consider that we normally have eight Main Classifications (MC1 through MC8) this will allow 80 maximum votes per SPC member (40 first and 40 second priority).
 
-The SPC Chair, however, may choose a different number of possible votes to be cast. The Scientific Secretary will confirm and give precise instructions on how many priorities an SPC member is allowed to assign for a specific IPAC.
+The SPC Chair, however, may choose a different number of possible votes to be cast. The Scientific Secretary will confirm and give precise instructions on how many priorities an SPC member is allowed to assign for a specific ECRIS.
 
 ---
 

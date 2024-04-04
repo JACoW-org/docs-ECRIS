@@ -30,7 +30,7 @@ The Scientific Secretariat (or the Editor-in-Chief) will use the contribution mo
 
 - **check the list of authors** and, if different from the one in the paper, correct it in Indico
   
-    - in particular, be sure that only **one** author is present in the "Authors" section in Indico - this will be the **first author** as per IPAC tradition
+    - in particular, be sure that only **one** author is present in the "Authors" section in Indico - this will be the **first author** as per ECRIS tradition
   
     - all the other authors are present as **co-authors**. Entries outside these two sections (i.e., listed under "Others") won't be listed in the proceedings
   

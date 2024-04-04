@@ -1,12 +1,11 @@
 # Glossary
 
-The workflow of all IPAC conferences is pretty much the same, regardless of the tools used to manage contributions (SPMS or Indico). However, terminology varies. 
+The workflow of all ECRIS conferences is pretty much the same, regardless of the tools used to manage contributions (SPMS or Indico). However, terminology varies. 
 Here follows an explanation and mapping of the terms that appear in SPMS and Indico.
 
 | SPMS                             | Indico                                      |
 | -------------------------------- | ------------------------------------------- |
-| Main Classification (MC)         | Track Group                                 |
-| Sub Classification               | Track                                       |
+| Main Classification (MC)         | Track                                       |
 | Abstract                         | Abstract                                    |
 | Accepted abstract                | Contribution                                |
 | Review                           | Comment, propose track change/accept/...    |

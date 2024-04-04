@@ -1,6 +1,6 @@
 # Digital Object Identifiers (DOI)
 
-Papers in the IPAC proceedings are given a unique [DOI](https://doi.org) built from the PURR settings and the paper's programme code:
+Papers in the ECRIS proceedings are given a unique [DOI](https://doi.org) built from the PURR settings and the paper's programme code:
 
 ![](img/doi-url-example.png)
 

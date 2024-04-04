@@ -1,8 +1,8 @@
 # How to submit an abstract
 
-## Login to the IPAC Indico event
+## Login to the ECRIS Indico event
 
-See [How to login to the Indico event](JACoWlogin.md) for details on how to login to the IPAC Indico event.
+See [How to login to the Indico event](JACoWlogin.md) for details on how to login to the ECRIS Indico event.
 
 ## Create a new abstract
 
@@ -10,7 +10,7 @@ From the event screen click *Submit new abstract* :
 
 ![](../InvitedOrals/img/abstract_submit_button.png)
 
-The abstract submission form will appear. Before continuing, please click on the **submission instructions** link and review any specific note for the given event. Every IPAC can have slightly different ways of organising abstracts, so please be aware of the specific directions available from that link.
+The abstract submission form will appear. Before continuing, please click on the **submission instructions** link and review any specific note for the given event. Every ECRIS can have slightly different ways of organising abstracts, so please be aware of the specific directions available from that link.
 
 All fields marked with a **red star** are mandatory. Below the image all needed fields are explained.
 
@@ -20,9 +20,9 @@ All fields marked with a **red star** are mandatory. Below the image all needed 
 
 * **Content**: the description, or abstract text, is needed here. Please describe what you intend to present at this conference. A couple of notes: 
   
-    * with Indico you can enrich the abstract content by using [Markdown](https://www.markdownguide.org) of [LaTeX](https://www.latex-project.org). However, we ask you to **refrain from using this feature**. For IPAC abstracts **please only use plain text**  
+    * We ask you to **refrain from using the Markdown feature**. For ECRIS abstracts **please only use plain text**.  **Do not enrich the abstract content** by using [Markdown](https://www.markdownguide.org) of [LaTeX](https://www.latex-project.org)
   
-    * also **refrain from copying and pasting from word processors** like Microsoft Word or LibreOffice. Special characters like non-standard ticks (``, ´´, etc.) or the *three-dots character* (...) could get bad results when creating the final abstracts booklet. Be sure that these kind of special characters are avoided
+    * Also **refrain from copying and pasting from word processors** like Microsoft Word or LibreOffice. Special characters like non-standard ticks (``, ´´, etc.) or the *three-dots character* (...) could get bad results when creating the final abstracts booklet. Be sure that these kind of special characters are avoided
 
 * **Authors**: enter the list of authors by clicking on the **Search** button:
   
@@ -48,7 +48,7 @@ All fields marked with a **red star** are mandatory. Below the image all needed 
 
 ---
 
-* **Contribution Type**: choose among the types available here. This may vary from conference to conference, but for IPACs it's normal to only being able to select Poster Presentations. The Scientific Programme Committee will eventually select Contributed Oral presentations from the submitted Poster presentations.
+* **Contribution Type**: choose among the types available here. This may vary from conference to conference, but for ECRISs it's normal to only being able to select Poster Presentations or Contributed Oral presentations.
   ![](./img/PresentationType.png)
 
 * **Comments**: this space is for any notes to the Scientific Secretariat possibly needed for this contribution
@@ -58,7 +58,7 @@ All fields marked with a **red star** are mandatory. Below the image all needed 
 
 ## Optional fields
 
-The instructions above cover a generic IPAC. However, any specific edition can request to enter additional data by way of additional fields at the bottom of the submission form. Please refer to the particular instructions for the specific event. 
+The instructions above cover a generic ECRIS. However, any specific edition can request to enter additional data by way of additional fields at the bottom of the submission form. Please refer to the particular instructions for the specific event. 
 
 ## Creating JACoW profiles for new authors
 

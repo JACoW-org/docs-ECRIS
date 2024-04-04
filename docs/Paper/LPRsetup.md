@@ -39,7 +39,7 @@ The template becomes visible in the display area of the conference:
 
 The peer reviewing module allows reviewers to review the content and the layout of a paper separately.
 
-**IPAC only deals with content review: the layout will be managed by the JACoW Proceedings Office by using the Editing module of Indico.**
+**ECRIS only deals with content review: the layout will be managed by the JACoW Proceedings Office by using the Editing module of Indico.**
 
 By default, only the content reviewing process is enabled in the *Paper Peer Reviewing* tab. You can leave this setting as it is.
 

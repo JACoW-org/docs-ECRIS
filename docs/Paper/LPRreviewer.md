@@ -16,7 +16,7 @@ You can see the papers in the _Reviewing area_ of the event under _Papers to rev
 
 ---
 
-IPAC LPR only deals with the content of the paper. The layout, or *paper editing*, will be reviewed by the JACoW team in the Proceedings Office. The LPR manager will distribute the exact rules for an homogeneous review among all the reviewers.
+ECRIS LPR only deals with the content of the paper. The layout, or *paper editing*, will be reviewed by the JACoW team in the Proceedings Office. The LPR manager will distribute the exact rules for an homogeneous review among all the reviewers.
 
 To review a paper, first select one paper from the list of papers to open its timeline. At the top of timeline page, you can download the latest version of the submitted paper. 
 
@@ -38,7 +38,7 @@ You can edit your review later as long as there is no judgement yet. This can be
 
 ---
 
-In principle you could also comment on a paper without leaving a review. However, we discourage this opportunity since your comments, together with your name, will be visible to the other reviewers. IPAC LPR normally implements a blind review even among the reviewers.
+In principle you could also comment on a paper without leaving a review. However, we discourage this opportunity since your comments, together with your name, will be visible to the other reviewers. ECRIS LPR normally implements a blind review even among the reviewers.
 
 If the LPR manager requests corrections, reviewers will be able to review the corrected paper after the author will have uploaded a new version of the files.
 

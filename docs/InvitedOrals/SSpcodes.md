@@ -4,7 +4,7 @@ During the SPC/2 meeting SPC members will have decided a synoptic table/overview
 
 ## What are programme codes
 
-Most JACoW conferences have protocols in place to identify contributions by a *programme code* formed of several elements. For IPAC it usually looks like this:
+Most JACoW conferences have protocols in place to identify contributions by a *programme code* formed of several elements. For ECRIS it usually looks like this:
 
 **`DD T L NNN`** where
 
@@ -129,7 +129,7 @@ Indico then permits to split one session into multiple blocks: the result is tha
 
 ***For this reason one Session Block's Programme Code will usually be identical to its Session Code.*** 
 
-There may be exceptions, however, often related to **poster sessions**. Since it is usual for IPACs to have around 500 posters per day presented at the same time, it may be necessary to split these posters in *multiple rooms or areas*. In that case, for the purpose of a better reading of the Indico timetable, **it is convenient to use one session per day having multiple session blocks**. Here is an example from IPAC'23:
+There may be exceptions, however, often related to **poster sessions**. Since it is usual for ECRISs to have around 500 posters per day presented at the same time, it may be necessary to split these posters in *multiple rooms or areas*. In that case, for the purpose of a better reading of the Indico timetable, **it is convenient to use one session per day having multiple session blocks**. Here is an example from ECRIS'23:
 
 ![](img/OneSessionThreeBlocks.png)
 
@@ -173,7 +173,7 @@ To create the Scientific Programme in Indico means scheduling presentations in t
 
 ### Assigning contributions to sessions
 
-So far we have gone through the concept of Tracks, which are the scientific classification of the works. One track can then be implemented into one or more sessions. Normally, for IPACs, we keep a simple assignment of one Session (Block) per Track/Classification, but this may change whenever the organisers think of a different format.
+So far we have gone through the concept of Tracks, which are the scientific classification of the works. One track can then be implemented into one or more sessions. Normally, for ECRISs, we keep a simple assignment of one Session (Block) per Track/Classification, but this may change whenever the organisers think of a different format.
 
 Assigning contributions to sessions can be performed in two different ways, manually or automatically.
 
@@ -285,7 +285,7 @@ Similarly, you may want to define the Contributions template as `{session_block_
 
 ---
 
-***Important note:*** be aware **NOT to use the "play" icon for automatic assignment of programme codes for contributions**. If used, this would remove all the already assigned programme codes and reset them according to the template, which does not contain all the necessary data IPAC conferences need. For example, with this system *it is not possible to assign a sequential ID in the programme code* - the *id* placeholder refers to the numeric abstract id and is not suitable for us.
+***Important note:*** be aware **NOT to use the "play" icon for automatic assignment of programme codes for contributions**. If used, this would remove all the already assigned programme codes and reset them according to the template, which does not contain all the necessary data ECRIS conferences need. For example, with this system *it is not possible to assign a sequential ID in the programme code* - the *id* placeholder refers to the numeric abstract id and is not suitable for us.
 
 However, this template will pre-fill the fields when manually assigning the programme codes in bulk, as presented above.
 

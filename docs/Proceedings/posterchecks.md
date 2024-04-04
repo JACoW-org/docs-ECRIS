@@ -1,6 +1,6 @@
 # Poster checks
 
-IPAC has a strict policy on publishing papers of poster contributions. Their posters must be:
+ECRIS has a strict policy on publishing papers of poster contributions. Their posters must be:
 
 - **Posted**: a poster must be present on the poster board in the assigned poster session
 

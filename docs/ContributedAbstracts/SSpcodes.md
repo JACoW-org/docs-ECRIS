@@ -1,6 +1,6 @@
 # Automatic assignment of Programme Codes
 
-The need for Programme Codes and how to assign them has already been introduced in the [Invited Oral Presentations](../InvitedOrals/SSpcodes.md#what-are-programme-codes) section of this manual. Please refer to that page to first understand the use of programme codes in IPAC conferences.
+The need for Programme Codes and how to assign them has already been introduced in the [Invited Oral Presentations](../InvitedOrals/SSpcodes.md#what-are-programme-codes) section of this manual. Please refer to that page to first understand the use of programme codes in ECRIS conferences.
 
 Assigning programme codes to Contributed abstracts is an heavier task than the previous one for Invited Orals, due to their higher number. For this reason a system has been created to automatise it.
 
@@ -36,7 +36,7 @@ Since this is a very peculiar method of programme codes assignment it is not int
 
 To automatically assign programme codes with this utility it is necessary to assign programme codes to both **Sessions** and **Session Blocks**.
 
-Since IPAC uses a mapping of one session block for each session, the codes will be identical for both. Please refer to the instructions on [how to create sessions](..//InvitedOrals/SSpcodes.md#sessions) and on [how to create session blocks](../InvitedOrals/SSpcodes.md#session-blocks) to define, respectively, the **Session Code** and the **Session Block Code** (called "Programme code" as well in the Indico screens).
+Since ECRIS uses a mapping of one session block for each session, the codes will be identical for both. Please refer to the instructions on [how to create sessions](..//InvitedOrals/SSpcodes.md#sessions) and on [how to create session blocks](../InvitedOrals/SSpcodes.md#session-blocks) to define, respectively, the **Session Code** and the **Session Block Code** (called "Programme code" as well in the Indico screens).
 
 ---
 

@@ -1,8 +1,8 @@
-site_name: JACoW - Running an IPAC
-#site_url: https://docs-IPAC.JACoW.org
+site_name: JACoW - Running an ECRIS
+#site_url: https://docs-ECRIS.JACoW.org
 theme: material
-repo_name: 'jacow-org/docs-IPAC'
-repo_url: 'https://github.com/jacow-org/docs-IPAC'
+repo_name: 'jacow-org/docs-ECRIS'
+repo_url: 'https://github.com/jacow-org/docs-ECRIS'
 nav:
   - Introduction: index.md
   - Glossary: glossary.md 
@@ -20,37 +20,39 @@ nav:
       - Workflows: InitialSetup/mgmt_area_03.md
       - Reports: InitialSetup/mgmt_area_04.md
       - Customization: InitialSetup/mgmt_area_05.md
-  - Invited Oral Presentations:
-    - Introduction: InvitedOrals/intro.md
-    - Scientific Secretariat/Admin: 
-      - Intial Setup: InvitedOrals/SSsetup.md
-      - How submission will work: InvitedOrals/SSsubmission.md
-      - Call for Proposals for Invited Oral Presentations: InvitedOrals/SScall.md
-      - Post submission duties: InvitedOrals/SSpostsubmit.md
-      - Abstract Initial QA: InvitedOrals/SSinitialQA.md
-      - Setups for the SPC review: InvitedOrals/SSSPCsetup.md
-      - Creating sessions and assigning programme codes: InvitedOrals/SSpcodes.md
-      - Publishing the programme: InvitedOrals/SSpublishing.md
-      - Invitation to invited speakers: InvitedOrals/SSinviteinvited.md
-      - Tips and tricks: InvitedOrals/SStipsandtricks.md
-    - SPC/OC/SAB:
-      - Submission of Proposals for Invited Oral Presentations: InvitedOrals/SABsubmission.md
-    - SPC - normal workflow:
-      - "SPC: proposal of track changes": InvitedOrals/SPCtrackreview.md
-      - "SPC MC Coordinators: review tracks": InvitedOrals/MCCtrackreview.md
-      - "SPC: give priority to proposals": InvitedOrals/SPCprioritization.md
-      - "SPC MC Coordinators: accept proposals": InvitedOrals/MCCaccept.md
-    - SPC - simplified workflow:
-      - "SPC: review abstracts": InvitedOrals/SPCreview-s.md
-      - "SPC MC Coordinators: finalise classifications": InvitedOrals/MCCtrackreview.md
-      - "SPC MC Coordinators: accept proposals": InvitedOrals/MCCaccept.md
+  # - Invited Oral Presentations:
+  #   - Introduction: InvitedOrals/intro.md
+  #   - Scientific Secretariat/Admin: 
+  #     - Intial Setup: InvitedOrals/SSsetup.md
+  #     - How submission will work: InvitedOrals/SSsubmission.md
+  #     - Call for Proposals for Invited Oral Presentations: InvitedOrals/SScall.md
+  #     - Post submission duties: InvitedOrals/SSpostsubmit.md
+  #     - Abstract Initial QA: InvitedOrals/SSinitialQA.md
+  #     - Setups for the SPC review: InvitedOrals/SSSPCsetup.md
+  #     - Creating sessions and assigning programme codes: InvitedOrals/SSpcodes.md
+  #     - Publishing the programme: InvitedOrals/SSpublishing.md
+  #     - Invitation to invited speakers: InvitedOrals/SSinviteinvited.md
+  #     - Tips and tricks: InvitedOrals/SStipsandtricks.md
+  #   - SPC/OC/SAB:
+  #     - Submission of Proposals for Invited Oral Presentations: InvitedOrals/SABsubmission.md
+  #   - SPC - normal workflow:
+  #     - "SPC: proposal of track changes": InvitedOrals/SPCtrackreview.md
+  #     - "SPC MC Coordinators: review tracks": InvitedOrals/MCCtrackreview.md
+  #     - "SPC: give priority to proposals": InvitedOrals/SPCprioritization.md
+  #     - "SPC MC Coordinators: accept proposals": InvitedOrals/MCCaccept.md
+  #   - SPC - simplified workflow:
+  #     - "SPC: review abstracts": InvitedOrals/SPCreview-s.md
+  #     - "SPC MC Coordinators: finalise classifications": InvitedOrals/MCCtrackreview.md
+  #     - "SPC MC Coordinators: accept proposals": InvitedOrals/MCCaccept.md
   - Contributed Abstracts:
     - Introduction: ContributedAbstracts/intro.md
     - Scientific Secretariat/Admin: 
       - Setup review: ContributedAbstracts/SSsetup.md
       - Post submission duties: ContributedAbstracts/SSpostsubmit.md
-      - Abstract Initial QA: ContributedAbstracts/SSinitialQA.md
-      - Setups for the SPC review: ContributedAbstracts/SSSPCsetup.md
+  #    - Abstract Initial QA: ContributedAbstracts/SSinitialQA.md
+      - Abstract Initial QA: InvitedOrals/SSinitialQA.md
+  #    - Setups for the SPC review: ContributedAbstracts/SSSPCsetup.md
+      - Setups for the SPC review: InvitedOrals/SSSPCsetup.md
       - Accept Poster presentations: ContributedAbstracts/SSPosters.md
       - Programme codes: ContributedAbstracts/SSpcodes.md
       - Multiple Poster areas: ContributedAbstracts/SSmultipleposterareas.md
@@ -68,14 +70,14 @@ nav:
     - Abstracts booklet with CAT: AbstractBooklet/CAT.md
     - Mail Merge to RTF: AbstractBooklet/MailMerge.md
   - Paper submission:
-    - Light Peer Review:
-      - Introduction: Paper/LPRintro.md
-      - LPR module setup: Paper/LPRsetup.md
-      - Submitting a paper: Paper/LPRSubmit.md
-      - Communicating with reviewers: Paper/LPRcomm.md
-      - Submitting the paper for JACoW publication: Paper/LPRSubmit2.md
-      - Reviewing a paper: Paper/LPRreviewer.md
-      - Judging a paper: Paper/LPRjudge.md
+    # - Light Peer Review:
+    #   - Introduction: Paper/LPRintro.md
+    #   - LPR module setup: Paper/LPRsetup.md
+    #   - Submitting a paper: Paper/LPRSubmit.md
+    #   - Communicating with reviewers: Paper/LPRcomm.md
+    #   - Submitting the paper for JACoW publication: Paper/LPRSubmit2.md
+    #   - Reviewing a paper: Paper/LPRreviewer.md
+    #   - Judging a paper: Paper/LPRjudge.md
     - JACoW publication: 
       - Paper editing workflow: Paper/intro.md
       - Submitting a paper: Paper/submit.md
@@ -94,8 +96,8 @@ nav:
         - Editables list and assignment: PaperEditing/Editor/assign.md
         - Editing an editable: PaperEditing/Editor/edit.md
         - QA: PaperEditing/Editor/QA.md
-      - Specific IPAC instructions:
-        - IPAC'23: PaperEditing/IPACs/IPAC23.md 
+      # - Specific ECRIS instructions:
+      #   - ECRIS'24: PaperEditing/ECRISs/ECRIS24.md 
   - Proceedings:
     - Introduction: Proceedings/intro.md
     - Paper checks: Proceedings/paperchecks.md

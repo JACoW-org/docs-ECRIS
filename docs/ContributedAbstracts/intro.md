@@ -2,9 +2,11 @@
 
 ## Introduction
 
-After having [selected the Invited Orals](/InvitedOrals/intro) authors are allowed to submit their contributed abstracts, both of Oral and Poster type. The SPC then needs to select the proposed Contributed Orals and enter them in the conference programme.
+[//]: # "[selected the Invited Orals](/InvitedOrals/intro)"
 
-The deadline for abstract submission for the large JACoW events is generally around 5 or 6 months prior to the conference, and around 2 or 3 months prior to the
+Since ECRIS is a smaller conference and does not have Invited Orals authors are allowed to submit their contributed abstracts, both of Oral and Poster type. The SPC then needs to select the proposed Contributed Orals and enter them in the conference programme.
+
+The deadline for abstract submission for the smaller JACoW events is generally around 5 or 6 months prior to the conference, and around 2 or 3 months prior to the
 deadline for early registration.
 
 Abstract submission may be opened several months prior to the submission deadline, but the bulk of abstracts will be submitted only in the weeks and days prior to the
@@ -45,4 +47,4 @@ If the time available for the SPC to perform the above tasks is limited, it may 
 
 ## Instructions for the SPC
 
-The exact instructions for the SPC are described in the dedicated pages for both the [normal workflow](SPCtrackreview.md) and the [simplified one](SPCreview-s.md). Please use the dynamic menu on the left to navigate through these instructions according to the workflow model your IPAC has chosen.
+The exact instructions for the SPC are described in the dedicated pages for both the [normal workflow](SPCtrackreview.md) and the [simplified one](SPCreview-s.md). Please use the dynamic menu on the left to navigate through these instructions according to the workflow model your ECRIS has chosen.

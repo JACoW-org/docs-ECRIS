@@ -1,6 +1,6 @@
 # Contributions in multiple sessions
 
-IPAC has a long tradition of organising a Special Student Poster Session on the Sunday. This session is aimed to helping young scientists get higher visibility and benefit for their career.
+ECRIS has a long tradition of organising a Special Student Poster Session on the Sunday. This session is aimed to helping young scientists get higher visibility and benefit for their career.
 
 The Scientific Programme Committee offers any student participating in the conference with a contribution (usually, poster) to present it twice: first in this Sunday, students-only, session, and then in a "normal" session with all the other posters.
 
