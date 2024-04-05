@@ -2,14 +2,14 @@
 
 ## Getting to the Indico event
 
-The address of the ECRIS event you want to access is surely published on the website of the conference, often an istitute specific web page or Indico instance (e.g. for ECRIS'24 - Event Homepage <https://indico.gsi.de/event/17948> )
+ECRIS'24 actually is using two Indico instances, which can be quite confusing for participants. We tried to make them distinguishable by titel and visually
 
-The usual URL for ECRIS JACoW Indico events is <https://indico.jacow.org/e/ECRISXXXX> (e.g., ECRIS'24 - Proceeding Management <https://indico.jacow.org/e/ECRIS2024> etc.)
+* `indico.gsi.de` for the conference homepage, registration, event information, was called *Event Homepage*
+* `indico.jacow.org` for the management of the scientific program, abstract, paper submission and editing, was called *JACoW Proceedings Management*
 
-ECRIS'24 actually was using two Indico instances, which can be quite confusing for your participants. If you have something similar try to make them distinguishable by titel and visually
+The address of the ECRIS Event Homepage is often an institute specific web page or Indico instance (e.g. for ECRIS'24 - Event Homepage <https://indico.gsi.de/event/17948> )
 
-* `indico.gsi.de` for the conference hompage, registration, event information, was called *Event Homepage*
-* `indico.jacow.org`for the management of the scientific program, abstract, paper submission and editing, was called *JACoW Proceedings Management*
+The usual URL for ECRIS JACoW Indico events is <https://indico.jacow.org/e/ECRISXXXX> (e.g., ECRIS'24 - JACoW Proceeding Management <https://indico.jacow.org/e/ECRIS2024> )
 
 ## Your JACoW account
 
