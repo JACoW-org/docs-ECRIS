@@ -20,7 +20,9 @@ For larger conferences, more and more frequently Professional Conference Organiz
 
 The IAC is normally composed of approximatly 15 international members, usually covering all the regions and having at least 3 representatives from each region.
 
-The IAC does not meet. It is invited to submit proposals and also to make suggestions on the organization of the event. Members are kept informed of developments. Following the conference the IAC is asked for feedback, which is passed on to the next conference organizers.
+It is available to answer an solve critical problems or questions related to the event. Members are kept informed of developments. 
+
+The IAC does usually meet at least once during the conference to decide the next conference host. 
 
 ## Scientific Programme Committee (SPC)
 
