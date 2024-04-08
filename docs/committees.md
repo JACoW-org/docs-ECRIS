@@ -1,6 +1,6 @@
 # Organising Committees
 
-The organizing committees of ECRIS, similar to other events, are the Local Organizing Committee (**LOC**), the International Advisory Committee (**IAC**), the Scientific Programme Committee (**SPC**), and the Editorial Board (**EB**).
+The organizing committees of ECRIS, similar to other events, are the Local Organizing Committee (**LOC**), the International Advisory Committee (**IAC**), the Scientific Programme Committee (**SPC**),  Scientific Secretariat (**SS**), and the Editorial Board (**EB**).
 
 With the introduction of a 2-year cycle through the regions Europe, Asia, America, the conferences adopt a similar approach to the conference organization. The main concept is that the SPC is a sub-committee of the LOC. For the LOC, the members come from the region organizing the conference, and for the IAC from all over the world.
 
